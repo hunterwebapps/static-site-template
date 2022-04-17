@@ -9,8 +9,8 @@ This template is only meant to support modern browsers. We freely use modern fea
 ## Install Steps
 
 1. `git clone https://github.com/hunterwebapps/static-site-template.git {new site name}`
-2. `rm -rf .git` folder to clear git history
-3. `cd` into {new site name} folder
+2. `cd` into {new site name} folder
+3. `rm -rf .git` folder to clear git history
 4. Update `meta` tags in `index.html`
 5. `npm install`
 6. `npm run dev`
